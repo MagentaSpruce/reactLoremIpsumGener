@@ -5,7 +5,14 @@ function App() {
   const [text, setText] = useState([]);
   const handleClick = (e) => {
     e.preventDefault();
-    setText(data);
+    let amount = parseInt(count);
+    if (count <= 0) {
+      amount = 1;
+    }
+    if (count > 8) {
+      amount = data.length;
+    }
+    setText(data.slice(0, amount));
     console.log("working");
   };
   return (
