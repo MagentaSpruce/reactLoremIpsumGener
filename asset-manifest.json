@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactLoremIpsumGener/static/css/main.9d994fcb.chunk.css",
+    "main.js": "/reactLoremIpsumGener/static/js/main.0b323f42.chunk.js",
+    "main.js.map": "/reactLoremIpsumGener/static/js/main.0b323f42.chunk.js.map",
+    "runtime-main.js": "/reactLoremIpsumGener/static/js/runtime-main.fc1c7353.js",
+    "runtime-main.js.map": "/reactLoremIpsumGener/static/js/runtime-main.fc1c7353.js.map",
+    "static/js/2.d8a71053.chunk.js": "/reactLoremIpsumGener/static/js/2.d8a71053.chunk.js",
+    "static/js/2.d8a71053.chunk.js.map": "/reactLoremIpsumGener/static/js/2.d8a71053.chunk.js.map",
+    "index.html": "/reactLoremIpsumGener/index.html",
+    "precache-manifest.0884faf39a84826e4d7fee23a33ecf55.js": "/reactLoremIpsumGener/precache-manifest.0884faf39a84826e4d7fee23a33ecf55.js",
+    "service-worker.js": "/reactLoremIpsumGener/service-worker.js",
+    "static/css/main.9d994fcb.chunk.css.map": "/reactLoremIpsumGener/static/css/main.9d994fcb.chunk.css.map",
+    "static/js/2.d8a71053.chunk.js.LICENSE.txt": "/reactLoremIpsumGener/static/js/2.d8a71053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc1c7353.js",
+    "static/js/2.d8a71053.chunk.js",
+    "static/css/main.9d994fcb.chunk.css",
+    "static/js/main.0b323f42.chunk.js"
+  ]
+}
