@@ -5,6 +5,7 @@ function App() {
   const [text, setText] = useState([]);
   const handleClick = (e) => {
     e.preventDefault();
+    setText(data);
     console.log("working");
   };
   return (
@@ -23,6 +24,11 @@ function App() {
           generate
         </button>
       </form>
+      <article className="lorem-text">
+        {text.map((item, index) => {
+          return <p key={index}>{item}</p>;
+        })}
+      </article>
     </section>
   );
 }
